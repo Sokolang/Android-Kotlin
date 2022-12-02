@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="retos">
+        <item>Jump!</item>
+        <item>Go!</item>
+        <item>Sit!</item>
+        <item>Sing!</item>
+        <item>Dance!</item>
+        <item>Play!</item>
+    </string-array>
+</resources>
